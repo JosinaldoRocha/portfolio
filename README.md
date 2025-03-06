@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92e047d5-7804-49cf-b7e9-35f9db5da72c)# 🚀 Portfólio
+# 🚀 Portfólio
 
 Olá! Sou um desenvolvedor mobile especializado em Flutter, Dart e FlutterFlow. Trabalho com tecnologia desde 2022 e tenho experiência no desenvolvimento de aplicativos escaláveis e eficientes.  
 
@@ -19,7 +19,7 @@ Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do dese
 - **WSG** – Aplicativo para controle logístico de porto.  
 - **MTA** – Aplicativo para controle logístico de porto.    
 - **Infokings** – Sistema de ponto digital com geo localização e reconhecimento facial.
-- ![image](https://github.com/user-attachments/assets/8032e389-f203-468f-b086-1754652283a3) ![image](https://github.com/user-attachments/assets/fa90b215-bd7e-4dfe-adff-80eb01cff0f9) ![image](https://github.com/user-attachments/assets/2b4fe81a-7ba5-4dd2-8447-994534ed2662) ![image](https://github.com/user-attachments/assets/26d3e432-a083-4b70-b0c0-c16c6b1022c0) ![image](https://github.com/user-attachments/assets/c4fa9f0d-ed45-4002-8af6-6c4c2fc2ebb2) ![image](https://github.com/user-attachments/assets/693051b0-e50a-4888-91b4-014475107f52) ![image](https://github.com/user-attachments/assets/2734e8e9-7095-4c6d-9220-eb6cf2722bf6) ![image](https://github.com/user-attachments/assets/e2483956-b7fb-4bbe-a59d-5bef98098ecb)
+- ![image](https://github.com/user-attachments/assets/8032e389-f203-468f-b086-1754652283a3) ![image](https://github.com/user-attachments/assets/fa90b215-bd7e-4dfe-adff-80eb01cff0f9) ![image](https://github.com/user-attachments/assets/2b4fe81a-7ba5-4dd2-8447-994534ed2662) ![image](https://github.com/user-attachments/assets/c4fa9f0d-ed45-4002-8af6-6c4c2fc2ebb2) ![image](https://github.com/user-attachments/assets/693051b0-e50a-4888-91b4-014475107f52) ![image](https://github.com/user-attachments/assets/2734e8e9-7095-4c6d-9220-eb6cf2722bf6) ![image](https://github.com/user-attachments/assets/e2483956-b7fb-4bbe-a59d-5bef98098ecb)
 
 
 
