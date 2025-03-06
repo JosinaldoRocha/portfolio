@@ -18,6 +18,18 @@ Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do dese
 
 
 - **WSG** – Aplicativo para controle logístico de porto.
+- ![image](https://github.com/user-attachments/assets/c4cac219-c3cf-41da-8326-ebb197a374fc) ![image](https://github.com/user-attachments/assets/c0fba386-11be-4bc1-8957-4888e2156cf4) ![image](https://github.com/user-attachments/assets/798dabbf-1bd4-406f-b685-82bee7fc5fd2)
+
+- ![image](https://github.com/user-attachments/assets/b2862d42-4338-47e2-9624-0463c81887a6) ![image](https://github.com/user-attachments/assets/0d7d133e-5f7e-4c8c-9ca7-9ec6e81977cc)
+
+- ![image](https://github.com/user-attachments/assets/d1caa509-ac9c-4f74-bf71-5d6143c19dcd) ![image](https://github.com/user-attachments/assets/2c584674-e9fc-4f7d-86c1-b57d685e99e0)
+
+- ![image](https://github.com/user-attachments/assets/fef6b81a-954c-4d86-b833-1fe81423bda3) ![image](https://github.com/user-attachments/assets/82acda92-89cd-4378-8887-26e0cf55652b)
+
+- ![image](https://github.com/user-attachments/assets/cef6f803-1d91-4a23-8fec-f98b74953f42)  ![image](https://github.com/user-attachments/assets/1138c461-de2a-4590-a85c-b42eba010985) ![image](https://github.com/user-attachments/assets/b659b98f-f5b0-4538-8efd-9a7fc20d6fb9)
+
+- ![image](https://github.com/user-attachments/assets/6526fa00-6641-4b14-b5ff-2a0b37fd2960)
+
 
   
 - **MTA** – Aplicativo para controle logístico de porto.
