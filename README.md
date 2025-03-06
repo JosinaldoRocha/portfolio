@@ -20,7 +20,8 @@ Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do dese
 - **MTA** – Aplicativo para controle logístico de porto.    
 - **Infokings** – Sistema de ponto digital com geo localização e reconhecimento facial.  
 - **AVB** – Sistema de gestão de inventário para empresa do ramo florestal. 
-- **Cia** – Aplicativo para escola de idiomas.  ![image](https://github.com/user-attachments/assets/c641f26e-592c-4a5e-8e87-9f3675b34ee6)  ![image](https://github.com/user-attachments/assets/1155528b-18f2-418d-81f0-4232850105f7) 
+- **Cia** – Aplicativo para escola de idiomas.
+-  ![image](https://github.com/user-attachments/assets/c641f26e-592c-4a5e-8e87-9f3675b34ee6)  ![image](https://github.com/user-attachments/assets/1155528b-18f2-418d-81f0-4232850105f7) 
 
 
 
