@@ -30,7 +30,10 @@ Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do dese
 
 - **AVB** – Sistema de gestão de inventário para empresa do ramo florestal.
 - ![image](https://github.com/user-attachments/assets/7e19f413-14f8-4cb1-9163-32aa21db5b6a) ![image](https://github.com/user-attachments/assets/bd986da5-1da1-4462-b0c3-b87c68088658) ![image](https://github.com/user-attachments/assets/9a3eb3fc-ffd6-4fd1-a846-5061f43f8ba6) ![image](https://github.com/user-attachments/assets/31d14003-7de0-45d1-ac92-ac7bef11cd76) ![image](https://github.com/user-attachments/assets/87a7b844-ba6c-48a0-b0ff-87dbd64dd16e)
- ![image](https://github.com/user-attachments/assets/d67d1853-05e3-4c0f-91ee-7d7a5054611b) ![image](https://github.com/user-attachments/assets/4c33ce1a-0f0e-4a3c-b4bd-749215af081a) ![image](https://github.com/user-attachments/assets/ceb4ca57-3dec-4994-bf83-e0f9e60a3aeb)
+ ![image](https://github.com/user-attachments/assets/d67d1853-05e3-4c0f-91ee-7d7a5054611b) ![image](https://github.com/user-attachments/assets/4c33ce1a-0f0e-4a3c-b4bd-749215af081a) ![image](https://github.com/user-attachments/assets/ceb4ca57-3dec-4994-bf83-e0f9e60a3aeb) ![image](https://github.com/user-attachments/assets/b7bef94a-fe3b-4de1-bb6c-d880262a8e59) ![image](https://github.com/user-attachments/assets/57501ecd-e7db-431a-8b97-af14f9a7a042) ![image](https://github.com/user-attachments/assets/87eccbf3-1a8a-4e6f-aa2f-b0394360ede8) 
+
+
+
 
 
 
