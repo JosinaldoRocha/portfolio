@@ -17,10 +17,8 @@ Olá! Sou um desenvolvedor mobile especializado em Flutter, Dart e FlutterFlow. 
 Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do desenvolvimento de diversos projetos:  
 
 - **WSG** – Aplicativo para controle logístico de porto.
-![Tela 13-portrait](https://github.com/user-attachments/assets/f7f7f6f2-b925-44ec-8667-dea35f37051b)
-![Tela 12-portrait](https://github.com/user-attachments/assets/f8a681f9-ee90-4139-8a53-c5eacea6f74c)
-![Tela 10-portrait](https://github.com/user-attachments/assets/899904cd-c23c-4d84-bd5e-32801885ae95)
-![Tela 14-portrait](https://github.com/user-attachments/assets/52dc8774-1336-4fe0-a5da-06cf2f934368)
+![Tela 13-portrait](https://github.com/user-attachments/assets/f7f7f6f2-b925-44ec-8667-dea35f37051b) ![Tela 12-portrait](https://github.com/user-attachments/assets/f8a681f9-ee90-4139-8a53-c5eacea6f74c)
+![Tela 10-portrait](https://github.com/user-attachments/assets/899904cd-c23c-4d84-bd5e-32801885ae95) ![Tela 14-portrait](https://github.com/user-attachments/assets/52dc8774-1336-4fe0-a5da-06cf2f934368)
 
 - **MTA** – Aplicativo para controle logístico de porto.
    
