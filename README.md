@@ -13,6 +13,12 @@ Olá! Sou um desenvolvedor mobile especializado em Flutter, Dart e FlutterFlow. 
 
 ## 💼 Experiência Profissional  
 
+### 🏢 WithNoCode (Abr/2025 – Out/2025)
+
+Atuei como desenvolvedor FlutterFlow na empresa WithNoCode, participando da migração de sistemas da Piracanjuba da plataforma Mendix para FlutterFlow.
+Fui responsável por adaptar e otimizar fluxos de interface, implementar funcionalidades personalizadas com Custom Functions e Actions, além de garantir performance e consistência visual nas aplicações migradas.
+Também atuei na construção e desenvolvimento de aplicativos mobiles durante o período em que estive na empresa.
+
 ### 🏢 TXT Software (Jan/2022 - Out/2024)  
 Atuei como desenvolvedor mobile na empresa TXT Software, onde participei do desenvolvimento de diversos projetos:  
 
